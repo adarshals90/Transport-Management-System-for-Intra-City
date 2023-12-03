@@ -1,0 +1,9 @@
+https://www.researchgate.net/publication/357180151_Passengers_Monitoring_System_with_Infrared_Sensors_and_Microcontroller
+
+https://www.electroniclinic.com/bidirectional-visitor-counter-using-arduino-and-ultrasonic-sensors-counting-visitors/
+
+https://quartzcomponents.com/blogs/electronics-projects/bidirectional-visitor-counter-using-ir-sensors-and-arduino-uno
+
+https://scholar.google.com/scholar?cites=7180393575241068076&as_sdt=2005&sciodt=0,5&hl=en
+
+https://www.tinkercad.com/things/2sTecDZPVZF-bi-directional-visitor-counter
