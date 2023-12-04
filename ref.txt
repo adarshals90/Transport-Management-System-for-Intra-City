@@ -7,3 +7,5 @@ https://quartzcomponents.com/blogs/electronics-projects/bidirectional-visitor-co
 https://scholar.google.com/scholar?cites=7180393575241068076&as_sdt=2005&sciodt=0,5&hl=en
 
 https://www.tinkercad.com/things/2sTecDZPVZF-bi-directional-visitor-counter
+
+"add ref here"
